@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 10%;
+    background-color: pink;
+}
+.logo{
+    cursor: pointer;
+    color: white;
+    font-family: 400;
+}
+.navlink{
+    list-style: none;
+    display: flex;
+}
+.navlink li{
+    padding: 0 20px;
+}
+.navlink li a{
+    color:white;
+    text-decoration: none;
+}
+.navlink li a:hover{
+    color:blue
+}
+button{
+    padding: 9px 25px;
+    background-color: blue;
+    border: none;
+    color: aliceblue;
+    border-radius: 50px;
+    transform: 0.3s;
+}
+button:hover{
+    background-color: brown;
+}
