@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: sandybrown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.cookiebox{
+    width: 100%;
+    max-width: 360px;
+    background-color: white;
+    border-radius: 15px;
+    text-align: center;
+    padding: 25px 25px 30px;
+}
+.cookiebox img{
+    max-width: 90px;
+}
+.content{
+    margin-top: 10px;
+}
+.content h2{
+    font-size: 24px;
+}
+.content p{
+    font-size: 15px;
+    margin: 5px 0 25px;
+    color: grey;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+}
+.btngroup{
+    padding: 10px 20px;
+    outline: none;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 2px solid salmon;
+    background-color: sandybrown;
+    color: white;
+    cursor: pointer;
+    transition: 0.5s ease;
+
+}
+.btngroup:hover{
+    background-color: white;
+    color: red;
+}
+a{
+    text-decoration: none;
+    color: sandybrown;
+}
+a:hover{
+    text-decoration: underline;
+}
