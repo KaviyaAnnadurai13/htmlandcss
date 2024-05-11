@@ -1,0 +1,187 @@
+*{
+    margin: 0;
+    padding: 0
+  }
+  .cont{
+    background-color: aquamarine;
+    border: 2px solid black;
+  }
+  #logo{
+    display: inline;
+  }
+  nav {
+    
+    display: flex;
+    float: right;
+    padding: 10px;
+    text-indent: 10px;
+    padding-right: 200px;
+    
+  }
+  .common{
+    background-color:aquamarine;
+  }
+  img{
+    float:right;
+    padding: 10px;
+  }
+  .one{
+    padding-top:30px;
+    padding-left:30px;
+  
+  }
+  
+  .flower{
+    padding:30px;
+  }
+  common h1{
+    padding: 30px;
+  }
+  
+  .two{
+    padding-left: 30px;
+  }
+  .flower p{
+    display:inline;
+    padding:10px;
+    margin-bottom:50px;
+    background: black;
+    color: white;
+    border: 2px solid black;
+    width: 100px;
+    height: 30px;
+  }
+  
+  .flower1{
+    text-align: center;
+  }
+  .flower1 p{
+    padding-bottom: 20px;
+  }
+  .flowers{
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .flower2{
+    border:2px solid black;
+    width:200px;
+    height:120px;
+    padding: 20px;
+    text-align: center;
+    }
+  .flower3{
+    border:2px solid black;
+    width:200px;
+    height:120px;
+    padding: 20px;
+    text-align: center;
+  }
+  .flower4{
+    border:2px solid black;
+    width:200px;
+    height:120px;
+    padding: 20px;
+    text-align: center;
+  }
+  h2{
+    text-align: center;
+    margin-top: 10px;
+   padding-bottom: 30px;  
+  
+  } 
+  .pots{
+     background-color: aquamarine;
+     text-align: center;
+     
+     
+  }
+  .pot1{
+     display: flex;
+     justify-content: space-between;
+     text-align: center;
+     
+    }
+  .flowerpot1{
+  
+    margin-top: -30px;
+  }
+  .flowerpot2{
+  
+    margin-top: 30px;
+  }
+  .flowerpot3{
+    
+    margin-top: -30px;
+  }
+  .pots p{
+    padding-top:20px;
+    padding-bottom: 20px;
+  }
+  
+  h3{
+    padding-top: 30px;
+    padding-bottom: 10px;
+    margin-left:30px;
+  }
+  .leaf{
+    display: flex;
+    justify-content: space-between;
+  }
+  .box{
+    background-color: aquamarine;
+    margin-top: 100px;
+    padding-bottom:150px;
+  }
+  .box img{
+        float:left;
+        margin-top: -50px;
+  }
+  .flo{
+    padding-top: 50px;
+  }
+  .box p{
+    padding:10px;
+  
+  }
+  
+  .box1{
+    text-align: center;
+  }
+  .box1 p{
+    margin-top: -15px;
+  }
+  .box1 input{
+    margin-top: 10px;
+    width: 500px;
+  }
+  .box1 h4{
+    
+    background-color: black;
+     color:  white;
+     border:2px solid black;
+     width:80px;
+     height:20px;
+     margin-top: 20px;
+     
+  }
+  .box2{
+    background-color: aquamarine;
+    margin-top: 10px;
+    padding-left:20px;
+  
+  }
+  .box2 h1{
+    padding-top: 30px;
+  }
+  .box2 i{
+    padding-top: 10px;
+  }
+  .box2 p{
+    padding-top: 20px;
+  }
+  
+      
+      
+      
+  
